@@ -29,13 +29,41 @@ body a{
     min-height:700px;
 }
 .about{
-	background: url(../images/about.jpg) no-repeat center top;
+	background: url(../images/about_top.jpg) no-repeat center top;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	-o-background-size: cover;
 	background-size: cover;
 	background-position: center;
-    min-height:270px;
+    min-height:470px;
+}
+.product{
+    background: url(../images/about.jpg) no-repeat center top;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    background-position: center;
+    min-height:470px;
+}
+.join{
+    background: url(../images/join_top.jpg) no-repeat center top;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    background-position: center;
+    min-height:470px;
+}
+.contact{
+    background: url(../images/contact_top.jpg) no-repeat center top;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    background-position: center;
+    min-height:470px;
+    margin-bottom: 10px;
 }
 .header-shadow{
 	padding-bottom:1.2%;
@@ -857,7 +885,7 @@ a.b-home:hover{
 }
 /*--contact--*/
 .contact{
-	padding:5em 0 0 0;
+	padding:0em 0 0 0;
 }
 .living_middle {
   margin-bottom: 5em;
